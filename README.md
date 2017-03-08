@@ -7,3 +7,6 @@ Next robots solves maze without mistake and with use of infrared sensor
 
 #### WARNING!!! ### 
 ### CANNOT BE RUN WITHOUT CALICO SOFTWARE AND ROBOTS ###
+
+
+worked with Jordan Floyd, Yawo Alphonse, Haytham Hakim and Seugnju Yao
